@@ -13,6 +13,11 @@
     - 360/753-4110
   websites:
     - http://www.governor.wa.gov/
+  channels:
+    - type: Facebook
+      id: WaStateGov
+    - type: Twitter
+      id: jayinslee
 - name:
     first: Terry
     last: McAuliffe
@@ -28,6 +33,11 @@
     - 804/371-6351
   websites:
     - http://www.governor.virginia.gov/
+  channels:
+    - type: Facebook
+      id: 61634046094
+    - type: Twitter
+      id: GovernorVA
 - name:
     first: Jack
     last: Markell
@@ -45,6 +55,11 @@
     - jmarkell@state.de.us
   websites:
     - http://governor.delaware.gov/
+  channels:
+    - type: Facebook
+      id: GovernorMarkell
+    - type: Twitter
+      id: GovernorMarkell
 - name:
     first: Scott
     last: Walker
@@ -60,8 +75,14 @@
     - 608/267-8983
   emails:
     - wisgov@mail.state.wi.us
+    - govgeneral@wisconsin.gov
   websites:
     - http://www.wisgov.state.wi.us/
+  channels:
+    - type: Facebook
+      id: governorscottwalker
+    - type: Twitter
+      id: govwalker
 - name:
     first: Earl
     middle: Ray
@@ -78,6 +99,9 @@
     - governor@state.wv.us
   websites:
     - http://www.governor.wv.gov/
+  channels:
+    - type: Twitter
+      id: GovTomblin
 - name:
     first: David
     last: Ige
