@@ -411,6 +411,8 @@
     - mark.dayton@state.mn.us
   websites:
     - http://www.governor.state.mn.us/
+  contact_forms:
+    - http://mn.gov/governor/contact-us/form/
 - name:
     first: Eric
     last: Greitens
@@ -666,6 +668,8 @@
     - governor@state.pa.us
   websites:
     - http://www.governor.state.pa.us/
+  contact_forms:
+    - https://www.governor.pa.gov/contact/
 - name:
     first: Ricky
     last: Rosselló
