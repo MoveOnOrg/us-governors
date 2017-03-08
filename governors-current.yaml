@@ -664,8 +664,6 @@
     - 717/787-2500
   faxes:
     - 717/772-8284
-  emails:
-    - governor@state.pa.us
   websites:
     - http://www.governor.state.pa.us/
   contact_forms:
@@ -887,15 +885,14 @@
     - type: Twitter
       id: govwalker
 - name:
-    first: Earl
-    middle: Ray
-    last: Tomblin
+    first: Jim
+    last: Justice
   bio:
     gender: M
   terms:
     - type: governor
       state: WV
-      party: Democratic 
+      party: Democratic
   phones:
     - 304/558-2000
   emails:
@@ -904,7 +901,7 @@
     - http://www.governor.wv.gov/
   channels:
     - type: Twitter
-      id: GovTomblin
+      id: WVgovernor
 - name:
     first: Matt
     last: Mead
