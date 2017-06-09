@@ -16,10 +16,10 @@
   websites:
     - http://gov.state.ak.us/
 - name:
-    first: Robert
-    last: Bentley
+    first: Kay
+    last: Ivey
   bio:
-    gender: M
+    gender: F
   terms:
     - type: governor
       state: AL
