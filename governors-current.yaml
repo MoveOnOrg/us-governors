@@ -703,11 +703,10 @@
   websites:
     - http://www.governor.state.ri.us/
 - name:
-    first: Nimrata
-    nickname: Nikki
-    last: Haley
+    first: Henry
+    last: McMaster
   bio:
-    gender: F
+    gender: M
   terms:
     - type: governor
       state: SC
