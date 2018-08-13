@@ -527,6 +527,8 @@
     - jodee@mail.state.ne.us
   websites:
     - http://www.governor.nebraska.gov/
+  contact_forms:
+    - https://governor.nebraska.gov/contact-form
   channels:
     - type: Facebook
       id: GovernorPeteRicketts
