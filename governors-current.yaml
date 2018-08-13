@@ -135,9 +135,9 @@
       state: DE
       party: Democratic
   phones:
-    - 302/744-4101
+    - 402/471-2244
   faxes:
-    - 302/739-2775
+    - 402/471-6031
   emails:
     - jmarkell@state.de.us
   websites:
@@ -527,6 +527,11 @@
     - jodee@mail.state.ne.us
   websites:
     - http://www.governor.nebraska.gov/
+  channels:
+    - type: Facebook
+      id: GovernorPeteRicketts
+    - type: Twitter
+      id: GovRicketts
 - name:
     first: Chris
     last: Sununu
